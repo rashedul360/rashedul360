@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
 <div>
-<img style="border-radius:10px; margin-bottom:10px;" src="https://i.ibb.co/7nhbsZ1/Black-Technology-Linked-In-Banner.png" />
+<img style="border-radius:10px; margin-bottom:10px;" src="[https://i.ibb.co/7nhbsZ1/Black-Technology-Linked-In-Banner.png](https://i.ibb.co/pw15XZB/Black-Technology-Linked-In-Banner-1.png)" />
 
 </div>
 <p style="margin-right:10px"> <img src="https://komarev.com/ghpvc/?username=rashedul360&label=Profile%20views&color=0e75b6&style=flat" alt="rashedul360" /> </p>
