@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
+<div>
+<img style="border-radius:10px; margin-bottom:10px;" src="https://i.ibb.co/7nhbsZ1/Black-Technology-Linked-In-Banner.png" />
 
-
-<div style="display:flex; align-items:center; justify-content:center;">
-
-<p style="margin-right:10px"> <img src="https://komarev.com/ghpvc/?username=rashedul360&label=Profile%20views&color=0e75b6&style=flat" alt="rashedul360" /> </p>
-    <img src="https://avatars.githubusercontent.com/u/80142932?v=4" style="width:100px"/>
 </div>
+<p style="margin-right:10px"> <img src="https://komarev.com/ghpvc/?username=rashedul360&label=Profile%20views&color=0e75b6&style=flat" alt="rashedul360" /> </p>
 
 - 🌱 I’m currently learning **next js, prisma, Full stack development**
 
