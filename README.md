@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate software engineer from Bangladesh 🇧🇩</h3>
 <div>
 <img style="border-radius:10px; margin-bottom:10px;" src="https://i.ibb.co/pw15XZB/Black-Technology-Linked-In-Banner-1.png" />
 
