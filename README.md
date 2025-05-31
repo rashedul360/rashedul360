@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **dev.rashedul.islam1@gmail.com**
+- 📫 How to reach me **ri.shihab2004@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://raw.githubusercontent.com/rashedul360/Rashedul_islam_Resume/5bbb7e17b73eacb35b3ae8f5e5c25ca547f2d011/Resume_Rashedul_Islam.pdf)
 
