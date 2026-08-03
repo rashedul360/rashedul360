@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **next js, prisma, Full stack development**
 
-- 👨‍💻 All of my projects are available at [https://dev-rashedul.web.app/](https://dev-rashedul.web.app/)
+- 👨‍💻 All of my projects are available at [https://www.rashedul-islam-shihab.com/](https://www.rashedul-islam-shihab.com/)
 
 - 💬 Ask me about **react**
 
