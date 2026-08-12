@@ -2,52 +2,49 @@
   <img style="border-radius:10px; margin-bottom:15px;" src="https://i.ibb.co/pw15XZB/Black-Technology-Linked-In-Banner-1.png" alt="Profile Banner" />
 </div>
 
-<h1 align="center">Hi 👋, I'm MD. Rashedul Islam Shihab</h1>
-<h3 align="center">Full-Stack Software Engineer 🇧🇩</h3>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rashedul360&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://www.rashedul-islam-shihab.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:ri.shihab2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://raw.githubusercontent.com/rashedul360/Rashedul_islam_Resume/5bbb7e17b73eacb35b3ae8f5e5c25ca547f2d011/Resume_Rashedul_Islam.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logo=Read-it-Later&logoColor=white" alt="Resume" />
-  </a>
-</p>
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="55%" valign="top">
+      <h2>Hi 👋, I'm MD. Rashedul Islam Shihab</h2>
+      <h4>Full-Stack Software Engineer 🇧🇩</h4>
+      <p>I’m a Software Engineer driven by curiosity and a passion for solving real-world problems through technology. I build modern, secure, and maintainable applications with a focus on performance, clean code, and outstanding user experiences. Whether developing full-stack web applications or exploring new technologies, I strive to create software that is both innovative and impactful.</p>
+      
+      <p>
+        <a href="https://www.rashedul-islam-shihab.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+        </a>
+        <a href="mailto:ri.shihab2004@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+        <a href="https://raw.githubusercontent.com/rashedul360/Rashedul_islam_Resume/5bbb7e17b73eacb35b3ae8f5e5c25ca547f2d011/Resume_Rashedul_Islam.pdf" target="_blank">
+          <img src="https://img.shields.io/badge/Resume-%230077B5.svg?style=for-the-badge&logo=Read-it-Later&logoColor=white" alt="Resume" />
+        </a>
+      </p>
+      
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=rashedul360&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+      </p>
+    </td>
+    
+    <td width="45%" valign="top" align="center">
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=rashedul360&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true" alt="rashedul360 stats" />
+      <br><br>
+      <!-- GitHub Streak -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashedul360&theme=tokyonight&hide_border=true" alt="rashedul360 streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 About Me
-
-I’m a Software Engineer driven by curiosity and a passion for solving real-world problems through technology. I build modern, secure, and maintainable applications with a focus on performance, clean code, and outstanding user experiences. Whether developing full-stack web applications or exploring new technologies, I strive to create software that is both innovative and impactful.
-
-- 🌱 **Currently focused on:** Next.js, Prisma, and Cloud Infrastructure
-- 💬 **Ask me about:** React, Node.js, and Full-Stack System Design
-
----
-
-### 📊 My GitHub Activity & Stats
-*(A quick look at my open-source contributions and coding activity)*
+### 📈 My GitHub Contributions
+*(My daily coding activity and open-source contributions)*
 
 <p align="center">
-  <a href="https://github.com/rashedul360">
-    <img src="https://github-readme-stats.vercel.app/api?username=rashedul360&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true" alt="rashedul360 stats" />
-  </a>
-  <a href="https://github.com/rashedul360">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashedul360&theme=tokyonight&hide_border=true" alt="rashedul360 streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rashedul360">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedul360&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="rashedul360 top languages" />
-  </a>
+  <img src="https://ghchart.rshah.org/tokyonight/rashedul360" alt="Rashedul Islam's Github Contributions Graph" />
 </p>
 
 ---
