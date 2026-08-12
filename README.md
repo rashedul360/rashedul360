@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
-<h3 align="center">A Passionate Full-Stack Software Engineer 🇧🇩</h3>
-
-<div align="center">
-  <img style="border-radius:10px; margin-bottom:15px;" src="https://i.ibb.co/pw15XZB/Black-Technology-Linked-In-Banner-1.png" alt="Profile Banner" />
-</div>
+<h1 align="center">MD. Rashedul Islam Shihab</h1>
+<h3 align="center">Software Engineer | Full-Stack Web Developer 🇧🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rashedul360&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -23,17 +19,28 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👋 About Me
 
-- 🚀 I specialize in building robust, scalable web applications and modern multi-tenant architectures.
-- 🌱 Currently diving deeper into **Next.js, Prisma, and Cloud Infrastructure**.
-- 💡 Passionate about clean code, system design, and exploring open-source technologies.
-- 💬 Ask me about **React, Node.js, and Full-Stack Development**.
-- ⚡ Fun fact: I love turning complex problems into elegant, user-friendly solutions.
+<div style="display:flex; align-items:center;">
+
+  <!-- Left: 60% -->
+  <div style="width:60%; padding-right:20px;">
+    I'm **MD. Rashedul Islam Shihab**, a Software Engineer driven by curiosity and a passion for solving real-world problems through technology. I build modern, secure, and maintainable applications with a focus on performance, clean code, and outstanding user experiences. Whether developing full-stack web applications or exploring new technologies, I strive to create software that is both innovative and impactful.
+  </div>
+
+  <!-- Right: 40% -->
+  <div style="width:40%;">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rashedul360&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="rashedul360 stats" height="165"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashedul360&theme=tokyonight&hide_border=true" alt="rashedul360 streak" height="165"/>
+    </p>
+  </div>
+
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> 
@@ -61,18 +68,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rashedul360&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="rashedul360 trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashedul360&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="rashedul360 stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashedul360&theme=tokyonight&hide_border=true" alt="rashedul360 streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedul360&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="rashedul360 top languages" />
 </p>
 
 <p align="center">
@@ -80,12 +79,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedul360&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="rashedul360 top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rashedul360&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="rashedul360 trophies" />
 </p>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.facebook.com/rashedul2004/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rashedul Islam Facebook" height="40" width="40" />
