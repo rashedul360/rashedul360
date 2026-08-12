@@ -6,7 +6,7 @@
 
 <table width="100%" style="border: none;">
   <tr>
-    <td width="55%" valign="top">
+    <td width="50%" valign="top">
       <h2>Hi 👋, I'm MD. Rashedul Islam Shihab</h2>
       <h4>Full-Stack Software Engineer 🇧🇩</h4>
       <p>I’m a Software Engineer driven by curiosity and a passion for solving real-world problems through technology. I build modern, secure, and maintainable applications with a focus on performance, clean code, and outstanding user experiences. Whether developing full-stack web applications or exploring new technologies, I strive to create software that is both innovative and impactful.</p>
@@ -28,23 +28,24 @@
       </p>
     </td>
     
-    <td width="45%" valign="top" align="center">
-      <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=rashedul360&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true" alt="rashedul360 stats" />
+    <td width="50%" valign="top" align="center">
+      <!-- Reliable GitHub Stats Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=rashedul360&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true" alt="rashedul360 stats" width="100%" />
       <br><br>
-      <!-- GitHub Streak -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashedul360&theme=tokyonight&hide_border=true" alt="rashedul360 streak" />
+      <!-- Reliable Top Languages Card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedul360&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="rashedul360 top languages" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 My GitHub Contributions
-*(My daily coding activity and open-source contributions)*
+### 📈 My Coding Activity
+*(A visual representation of my open-source contributions)*
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/tokyonight/rashedul360" alt="Rashedul Islam's Github Contributions Graph" />
+  <!-- Dynamic Activity Graph (Very Reliable) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashedul360&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" alt="Rashedul Islam's GitHub Activity Graph" width="100%" />
 </p>
 
 ---
