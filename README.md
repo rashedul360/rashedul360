@@ -2,7 +2,7 @@
   <img style="border-radius:10px; margin-bottom:15px;" src="https://i.ibb.co/pw15XZB/Black-Technology-Linked-In-Banner-1.png" alt="Profile Banner" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
+<h1 align="center">Hi 👋, I'm MD. Rashedul Islam Shihab</h1>
 <h3 align="center">Full-Stack Software Engineer 🇧🇩</h3>
 
 <p align="center">
@@ -23,16 +23,17 @@
 
 ---
 
-### 🚀 What I Do
-I specialize in building robust, scalable web applications and modern multi-tenant architectures. I focus on writing clean code and turning complex problems into user-friendly solutions.
+### 🚀 About Me
 
-- 🌱 Currently focused on: **Next.js, Prisma, and Cloud Infrastructure**
-- 💬 Ask me about: **React, Node.js, and Full-Stack System Design**
+I’m a Software Engineer driven by curiosity and a passion for solving real-world problems through technology. I build modern, secure, and maintainable applications with a focus on performance, clean code, and outstanding user experiences. Whether developing full-stack web applications or exploring new technologies, I strive to create software that is both innovative and impactful.
+
+- 🌱 **Currently focused on:** Next.js, Prisma, and Cloud Infrastructure
+- 💬 **Ask me about:** React, Node.js, and Full-Stack System Design
 
 ---
 
 ### 📊 My GitHub Activity & Stats
-*(Here is a quick look at how actively I code and contribute)*
+*(A quick look at my open-source contributions and coding activity)*
 
 <p align="center">
   <a href="https://github.com/rashedul360">
